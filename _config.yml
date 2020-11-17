@@ -29,7 +29,8 @@ github_username:  WalterVanderSchraaf
 linkedin_username: walter-vanderschraaf-health-technology
 
 # Build settings
-theme: minima
+# # theme: minima
+theme: jekyll-theme-midnight
 # # theme: null # minima was replaced by null
 plugins:
   - jekyll-feed
