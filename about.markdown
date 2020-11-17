@@ -112,7 +112,7 @@ Technologies used: .NET framework [ASP, ADO], C#, VS VB, Oracle, ANSI SQL, PL SQ
 ### Ultimate Frisbee 
 * NY NY: National Champions (6X 1987-93), World Champions (5X 1988-94)
 * Kavu (2004), Troubled Past (2009), Relics (2017, 2019): National Champions 
-* 2019 Ultimate Frisbee Hall of Fame inductee
+* <a href="https://www.usaultimate.org/about/history/hall_of_fame/walter_vanderschraaf_class_of_2019.aspx" target="_blank">2019 Ultimate Frisbee Hall of Fame inductee</a>
 
 Snowboarding, Mt Biking, Running, Surfing, Carpentry, Gardening
 
