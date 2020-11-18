@@ -28,15 +28,15 @@ layout: default
 
 ---
 
-The chart below was created in Python using plotly express for static hosting. The data comes from Iphone Healthkit and Google Fit sources. I'm curious how these companies define and evaluate fitnes data and ultimately the narrative of our daily lives. How accurate are they? So far it appears they are similar.
+The chart below was created in Python using plotly express for static hosting. The data comes from iPhone Healthkit and Google Fit sources. I'm curious how these companies define and evaluate fitness data and ultimately the narrative of our daily lives. How accurate are they? So far it appears they are similar in terms of steps and distance.
 <br>
-We can understand what a step is, but what about going up/down stairs and how does it compare to walking, running, skating? And what about move minutes and heart minutes?
+We can understand what a step is, but what about going up/down stairs and how does it compare to walking, jogging, running or biking? And what about move minutes and heart minutes?
 <div>{% include FamilyDistance.html %}</div>
 <br>
-A simple Swift app scrapes the Healthit info and sends it (using amplify) to a AWS S3 bucket. If the django site is provisioned on AWS, lambda functions will insert the data into an RDS MySql db; otherwise, I'll grab from the bucket, manage the db locally and create the plotly derived html files. In general, the Iphone monitoring is always on.
+A simple Swift app scrapes the Healthit info and sends it (using amplify) to an AWS S3 bucket. If the Django site is provisioned on AWS, lambda functions will insert the data into an RDS MySql db; otherwise, I'll grab from the bucket, manage the db locally and create the plotly derived html files. In general, the iPhone monitoring is always on.
 <div>{% include FamilySteps.html %}</div>
 <br>
-My swiss army knife, an android app "GetOut" that I've been slowly developing, will only monitor my gps and fitness when I want. I can select any Journal entry and follow the same process to make this data available on the cloud or locally.
+My Swiss army knife, an android app "GetOut" that I've been slowly developing, will only monitor my gps and fitness when I want. I can select any Journal entry and follow the same process to make this data available on the cloud or locally.
 <div class="row_wvs">
 <div class="column_wvs"><img src="/assets/images/GetOut_Journal_list1_300x617.png" alt="Journal list"></div>
 <div class="column_wvs"><img src="/assets/images/GetOut_Journal_rte1_300x617.png" alt="Journal route"></div>

@@ -84,18 +84,18 @@ Technologies used: .NET framework [ASP, ADO], C#, VS VB, Oracle, ANSI SQL, PL SQ
 <h3 class="resumedetails"><span class="resumeleft">Construction project manager</span>2016-2019</h3>
 <p class="indentpar">Rebuilt house due to fires back in Jan 2016</p>
 
-*    Contractor Manager
-  *    Researched and selected team: public adjuster, general contractor, structural engineer, architect, framer, tiler, fabricator, landscaper
-  *    Supervised cost estimates, budgets and work timetables
-  *    Reviewed, updated construction sets: electrical, plumbing, stairs, cabinets, landscape
-  *    Managed insurance claims, mortgage accounting
-  *    Analyzed insurance claims, communicated with insurance claim managers and mortgage managers
-  *    Coordinated materials
-  *    Designed, specified, purchased: slabs, tiles, flooring, windows, doors, cabinets, light fixtures, plumbing fixtures, appliances, finishes
-  *    Managed insurance contents purchases
-  *    Coordinated housing
-  *    Obtained rentals: 8 moves over 3 years
-  *    Filled in as Carpenter and Landscaper
+* Contractor Manager
+  * Researched and selected team: public adjuster, general contractor, structural engineer, architect, framer, tiler, fabricator, landscaper
+  * Supervised cost estimates, budgets and work timetables
+  * Reviewed, updated construction sets: electrical, plumbing, stairs, cabinets, landscape
+* Managed insurance claims, mortgage accounting
+  * Analyzed insurance claims, communicated with insurance claim managers and mortgage managers
+* Coordinated materials
+  * Designed, specified, purchased: slabs, tiles, flooring, windows, doors, cabinets, light fixtures, plumbing fixtures, appliances, finishes
+  * Managed insurance contents purchases
+* Coordinated housing
+  * Obtained rentals: 8 moves over 3 years
+* Filled in as Carpenter and Landscaper
 
 # EDUCATION
 ### New Jersey Institute of Technology - Newark, New Jersey
