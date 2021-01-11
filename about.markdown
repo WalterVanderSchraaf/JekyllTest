@@ -80,6 +80,13 @@ Platforms: Windows, Linux, Android, macOS
 # PROJECTS
 <br>
 <h3 class="resumedetails">
+<span class="resumeleft">Consultant - <a href="https://SocialVoyagers.org" target="_blank">Social Voyagers</a> 
+</span>2020-present</h3>
+
+* Web Design, Web support
+
+
+<h3 class="resumedetails">
 <span class="resumeleft">Consultant - <a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a>, 
 <a href="https://DeborahGutof.com" target="_blank">Deborah Design</a>
 </span>2016-present</h3>
